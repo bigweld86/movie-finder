@@ -1,0 +1,65 @@
+/*.App {
+  text-align: center;
+}
+*/
+body {
+  color: #0a1c3d !important;
+  font-size: 1.2em !important;
+}
+
+h2 {
+  font-size: 1.8em !important;
+}
+
+.not-found-row {
+  text-align: center;
+  padding: 100px 0 100px 0;
+  font-size: 2em;
+
+}
+.search-section {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0 0 20px;
+}
+
+.movie-content-top {
+  padding: 50px 0 50px 0;
+}
+
+.movie-content-area .poster-col {
+  text-align: center;
+  background-color: #dadfe4;
+}
+
+.movie-content-area .poster-col .movie-poster{
+  padding: 20px 0 20px 0;
+  max-height: 450px;
+  max-width: 400px;
+
+}
+
+.movie-content-area .general-info-area {
+  padding-left: 80px;
+}
+
+.movie-content-area .movie-title {
+  padding: 20px 0 40px 0;
+}
+.movie-content-area .desc-elem {
+  padding: 10px 0 10px 0;
+}
+
+.plot-row {
+  padding: 50px 0 50px 0;
+  background: #dadfe4;
+}
+
+.plot-row .container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.plot-row .movie-plot-header {
+  padding-bottom: 20px;
+}
